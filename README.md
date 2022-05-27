@@ -2,7 +2,7 @@
 ## Eu sou a Erika Maria Nascimento da Silva Cardoso, Formada em Análises de Sistemas e Estudante de programação!
 <div align="center">
   <a href="https://github.com/erikancardoso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikancardoso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
