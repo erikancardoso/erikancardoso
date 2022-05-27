@@ -1,9 +1,9 @@
 ### Hi there 👋
-## Eu sou a Erika Nascimento Cardoso, estudante de programação e tecnologia!
+## Eu sou a Erika Maria Nascimento da Silva Cardoso, Formada em Análises de Sistemas e Estudante de programação!
 <div align="center">
   <a href="https://github.com/erikancardoso">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikancardoso&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="18 j0em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikancardoso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>        
@@ -21,6 +21,7 @@
  
 <div> 
  <a href="https://www.linkedin.com/in/erikancardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:erikacardcont@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 ![Snake animation](https://github.com/erikancardoso/erikancardoso/blob/output/github-contribution-grid-snake.svg)
   
