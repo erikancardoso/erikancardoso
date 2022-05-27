@@ -14,9 +14,9 @@
   <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="INTELLIJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img align="center" alt="LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
-          
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=eSq0wTmdXN">
 </div>
-  Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=eSq0wTmdXN #Picrew #AmphyPop_Doll_Maker
+  
   ##
  
 <div> 
