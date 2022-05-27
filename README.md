@@ -2,7 +2,7 @@
 ## Oiii eu sou a Erika Nascimento Cardoso, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/erikancardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikancardoso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
