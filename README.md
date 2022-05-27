@@ -16,7 +16,7 @@
   <img align="center" alt="LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
           
 </div>
-  
+  Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=eSq0wTmdXN #Picrew #AmphyPop_Doll_Maker
   ##
  
 <div> 
