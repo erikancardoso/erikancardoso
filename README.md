@@ -2,7 +2,7 @@
 ## Eu sou a Erika Cardoso, Formada em Análises de Sistemas e Estudante de programação, Atualmente fazendo BootCamp do Santander e estou começando minha primeira turma como instrutora de tecnologia para algumas amigas!
 <div align="center">
   <a href="https://github.com/erikancardoso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikancardoso&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
