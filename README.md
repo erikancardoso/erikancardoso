@@ -1,4 +1,16 @@
 ### Hi there 👋
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=erikancardoso&show_icons=true" />
+</picture>
+
 ## Eu sou a Erika Cardoso, Formada em Análises de Sistemas e Estudante de Java, Atualmente trabalhando como professora de programação profissional.
 <div align="center">
   <a href="https://github.com/erikancardoso"></a> 
