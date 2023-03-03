@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Eu sou a Erika Cardoso, Formada em Análises de Sistemas e Estudante de Java, Atualmente trabalhando como professora de programação profissional.
+## Eu sou a Erika Cardoso, Formada em Análises de Sistemas e Estudante Backend de Java e Data Base, Atualmente trabalhando como professora de programação na Byjus e Fazendo curso na TreinaWeb de Analiste de Dados.
 <div align="center">
   <a href="https://github.com/erikancardoso"></a> 
 </div>
