@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm a freelancer developer system
+## I'm a Freelancer Developer System
 <div align="center">
   <a href="https://github.com/erikancardoso"></a> 
 </div>
